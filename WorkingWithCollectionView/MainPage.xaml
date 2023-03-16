@@ -5,7 +5,9 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:Models="clr-namespace:BindingToObject.Models"
     xmlns:this="clr-namespace:WorkingWithCollectionView"
-    x:DataType="this:MainPage">
+    x:DataType="this:MainPage"
+    xmlns:ViewModel="clr-namespace:WorkingWithCollectionView.view.model"
+    x:DataType="">
 
 
     <VerticalStackLayout>

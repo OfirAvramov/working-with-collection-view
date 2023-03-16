@@ -65,4 +65,8 @@
 	  <None Remove="Resources\Images\yali.jpg" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Folder Include="Views\" />
+	</ItemGroup>
+
 </Project>
